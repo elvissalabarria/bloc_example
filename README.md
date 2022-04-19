@@ -1,6 +1,6 @@
 # bloc_example
 
-A new Flutter project.
+Example for using flutter bloc with Dio
 
 ## Getting Started
 
